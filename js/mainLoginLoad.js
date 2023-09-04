@@ -10,7 +10,7 @@ jQuery(document).ready(function($) {
 
 //로그인 API
 function doKakaoLogin() {
-    Kakao.init('c74cee27e841ddfac6edca4429b56ab3');
+    Kakao.init('b50e8d85e8354e973926fb06f6b79aa5');
     console.log(Kakao.isInitialized());
     function kakaoLogin() {
         Kakao.Auth.login({

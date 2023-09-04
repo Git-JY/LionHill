@@ -11,15 +11,15 @@
  <input type="button" value="hello">
 ...
 
-...css
+```css
  // css 어느정도 작성가능
-...
+```
 
-...javascript
+```javascript
  // js 어느정도 작성가능
-...
+```
 
------ //<hr>
+--- //<hr> '-' 또는 '*'을 3개 이상 사용 
 
 * -> ul
 * *  *두개 li

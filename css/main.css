@@ -956,4 +956,7 @@ main
 main .reser_sec2 .reser_sec2_info .reser_sec2_wrap .reser_sec2_cal {
   margin-left: 50px;
 }
+main .reser_sec2 .reser_sec2_info .reser_sec2_wrap {
+ width: 100%;
+}
 }

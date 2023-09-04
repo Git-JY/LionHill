@@ -1,14 +1,22 @@
-# LionHill 
+# README.md: md -> MarkDown
 ## LionHill 
 ### LionHill 
 ---
 
---- // '-' 또는 '*'을 3개 이상 사용 
+&nbsp;&nbsp;&nbsp; 띄어쓰기  
+<br> 줄바꿈
 
----
+*1.)기울여 쓰기* _2.)기울여 쓰기_ <br>
+**1.)굵게 쓰기** __2.)굵게 쓰기__
 
-. // inline
-... // block
+--- *** // '-' 또는 '*'을 3개 이상 사용 
+
+***
+
+`inline`
+```
+block
+```
 
 ---
 

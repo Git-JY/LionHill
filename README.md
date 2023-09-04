@@ -1,8 +1,11 @@
-# LionHill <h1>
-## LionHill <h2>
-### LionHill <h3>
+# LionHill 
+## LionHill 
+### LionHill 
+---
 
---- //<hr> '-' 또는 '*'을 3개 이상 사용 
+--- // '-' 또는 '*'을 3개 이상 사용 
+
+---
 
 . // inline
 ... // block

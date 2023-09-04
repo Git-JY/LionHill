@@ -8,11 +8,12 @@
 
 ...html
  // html 어느정도 작성가능
- <input type="button" value="hello">
+ <>
 ...
 
 ```css
  // css 어느정도 작성가능
+*{color: blue}
 ```
 
 ```javascript

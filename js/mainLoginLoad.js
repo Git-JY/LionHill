@@ -2,7 +2,7 @@ jQuery(document).ready(function($) {
     $('body').prepend('<article class="loginPopup"></article>');
     $('.loginPopup').load('./sub/mainLogin.html', function() {
         // Kakao와 Google 로그인 스크립트 로드 후에 해당 함수 실행
-        $.getScript('./js/login.js');
+        $.getScript('./js/mainLogin.js');
         $.getScript('https://apis.google.com/js/platform.js?onload=init');
         doKakaoLogin();
     });

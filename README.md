@@ -9,10 +9,14 @@
 
 ---
 
+```
+
  <input type="button" value="hello">
  *{color: red}
  let a = 123;
  // 주석
+
+```
 
 ```html
 

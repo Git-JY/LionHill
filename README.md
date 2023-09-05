@@ -22,8 +22,8 @@ block
 
 ---
 
-```
 
+```
  <input type="button" value="hello">
  *{color: red}
  let a = 123;

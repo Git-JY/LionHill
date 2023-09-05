@@ -14,6 +14,8 @@
 ***
 
 `inline`
+
+
 ```
 block
 ```
@@ -53,7 +55,7 @@ block
 
  // js 느낌으로 글씨 색 바꿔줌
  <input type="button" value="hello">
- *{color: red}
+ *{color: #ff0000}
  let a = 123;
  // 주석
 
@@ -64,10 +66,21 @@ block
 * *  *두개 li
 
 ---
+
+<details>
+<summary>접기/펼치기</summary>
+
+hello
+
+</details>
+
+---
  
 // html이라고 명시 안해줘도 쓸 수 있는 것들
-<img src="/img/...> //레파지토리에 있는 경우에 쓸 수 있음(video태그도 가능) 
-<a>
+
+// issues뿐만 아니라, 레파지토리에 있는 경우에도 쓸 수 있음(video태그도 가능) <br>
+<img src="https://github.com/Git-JY/LionHill/assets/133798923/aab922bb-eeb5-4ccd-89ef-a65fcd7a43f8" width="50px" height="100px"> <br>
+<a href="https://www.naver.com/">네이버</a>
 
 [네이버](https://www.naver.com/ "이런 식으로 하는 거임")
 

@@ -19,7 +19,7 @@
 sub 페이지
 - room
 - roomDetail(방 자세히 보기)
-- event
+- about
 페이지를 만들었으며,
 
 그 외 event 페이지 다수 수정, 일부 페이지 수정을 맡았습니다.

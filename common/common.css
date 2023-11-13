@@ -525,3 +525,20 @@ button{
 }
 
 
+header{
+  z-index: 999;
+}
+/* 막아둠 */
+header>div.inner>div.inner2>div.btn_wrap>button{
+  pointer-events: none;
+  text-decoration: line-through;  
+}
+
+header>div.menu_show>a:nth-of-type(5){
+  pointer-events: none;
+  text-decoration: line-through;  
+}
+header>div.menu_show>a:nth-of-type(6){
+  pointer-events: none;
+  text-decoration: line-through;  
+}

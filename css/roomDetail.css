@@ -393,3 +393,11 @@ main > section.roomDetail_sec2 > article.otherRooms > div.slide > div.pagination
   font-weight: inherit;
   color: #EFF299;
 }/*# sourceMappingURL=roomDetail.css.map */
+
+
+
+/* 막아둠 */
+main > section.roomDetail_sec1 > div.reservWrapper > div.reservBtnsWrapper > a{
+  pointer-events: none;
+}
+

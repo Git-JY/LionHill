@@ -19,6 +19,10 @@ a,
 button {
   font-family: "SUIT-Regular" !important;
 }
+main .wrap .main_vis{
+  position: relative;
+  z-index: 10;
+}
 main .wrap .main_vis .vis_box .txt_wrap {
   font-family: "SUIT-Regular";
   position: absolute;
@@ -959,4 +963,12 @@ main .reser_sec2 .reser_sec2_info .reser_sec2_wrap .reser_sec2_cal {
 main .reser_sec2 .reser_sec2_info .reser_sec2_wrap {
  width: 100%;
 }
+}
+
+section.reser_sec2 > div.reser_sec2_info{
+  z-index: 0;
+}
+
+section.reser_sec2 > div.reser_sec2_info > div.reser_sec2_wrap {
+  pointer-events: none;
 }

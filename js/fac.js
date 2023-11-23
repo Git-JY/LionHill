@@ -47,7 +47,6 @@ for (const div of sections) {
 var swiper2 = new Swiper(".swiper", {
   slidesPerView: "1",
   loop: true,
-  spaceBetween: 10,
   loopedSlides: 1,
   autoplay: {
     delay: 4500,
